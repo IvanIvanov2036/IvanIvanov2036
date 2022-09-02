@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Ivanov</h1>
 <h3 align="center">A passionate frontend developer from Russian</h3>
-<img alt="Night Coding" src="(https://gfycat.com/aromaticbriskatlanticsharpnosepuffer)"align="right"/>
+<img alt="Night Coding" src="https://gfycat.com/aromaticbriskatlanticsharpnosepuffer"align="right"/>
 - 🔭 I’m currently working on **ъ**
 
 - 🌱 I’m currently learning **Frameworks and programming language**
